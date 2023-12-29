@@ -14,3 +14,7 @@ Libraries: Pandas, NumPy, Scikit-learn
 Machine Learning Techniques: Supervised Learning, Imbalanced Data Handling, Model Evaluation
 
 Kaggle Dataset:https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+![image1](cap3.PNG)
+![image2](cap4.PNG)
+![image3](cap5.PNG)
