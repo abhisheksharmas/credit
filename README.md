@@ -9,8 +9,7 @@
 Data Collection: Gathering a comprehensive dataset containing credit card transactions, including both legitimate and fraudulent instances, to train and evaluate the model. \
 Data Preprocessing: Cleaning and preprocessing the dataset, handling imbalanced data, and scaling features to prepare the data for model development. \
 Exploratory Data Analysis (EDA): Conducting exploratory analysis and visualization to understand patterns, trends, and anomalies within the transaction data. \
-Model Development: Employing various machine learning algorithms such as Logistic Regression, Random Forest, or Gradient Boosting to create a predictive model capable of distinguishing between genuine and fraudulent transactions. \
-Model Evaluation: Evaluating model performance using metrics like precision, recall, F1-score, and AUC-ROC to assess the model's accuracy in detecting fraudulent activities.
+Model Development: Employing various machine learning algorithms such as Logistic Regression, Random Forest, or Gradient Boosting to create a predictive model capable of distinguishing between genuine and fraudulent transactions.
 # Technologies Used:
 Programming Languages: Python
 Libraries: Pandas, NumPy, Scikit-learn
