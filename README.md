@@ -13,7 +13,7 @@ Model Development: Employing various machine learning algorithms such as Logisti
 Model Evaluation: Evaluating model performance using metrics like precision, recall, F1-score, and AUC-ROC to assess the model's accuracy in detecting fraudulent activities.
 # Technologies Used:
 Programming Languages: Python
-Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+Libraries: Pandas, NumPy, Scikit-learn
 Machine Learning Techniques: Supervised Learning, Imbalanced Data Handling, Model Evaluation
 
 Kaggle Dataset:https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
